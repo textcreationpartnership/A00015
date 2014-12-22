@@ -35,11 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-GODS WARning to his people of England. BY THE GREAT OVERflowing of the VVaters or Floudes lately hap
+Gods vvarning to his people of England By the great ouer-flowing of the vvaters or floudes lately ha
 #####Body#####
-
-1. Gods Warning to his people of England.
-
+Gods vvarning to his people of England By the great ouer-flowing of the vvaters or floudes lately ha
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
@@ -71,48 +69,42 @@ There are 16 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|7||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|16||
-|3.|__div__|2| @__type__ (2) : title_page (1), text (1)|
-|4.|__figure__|1||
-|5.|__front__|1||
-|6.|__g__|99| @__ref__ (99) : char:EOLhyphen (86), char:punc (13)|
-|7.|__gap__|16| @__reason__ (16) : illegible (16)  •  @__resp__ (16) : #OXF (16)  •  @__extent__ (16) : 1 span (2), 1 word (3), 1 letter (7), 2 letters (3), 4 letters (1)|
-|8.|__head__|1||
-|9.|__hi__|46||
-|10.|__p__|47||
-|11.|__pb__|16| @__facs__ (16) : tcp:1310:1 (2), tcp:1310:2 (2), tcp:1310:3 (2), tcp:1310:4 (2), tcp:1310:5 (2), tcp:1310:6 (2), tcp:1310:7 (2), tcp:1310:8 (2)  •  @__n__ (12) : 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1)|
-|12.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|13.|__trailer__|1||
+|1.|__desc__|16||
+|2.|__div__|2| @__type__ (2) : title_page (1), text (1)|
+|3.|__figure__|1||
+|4.|__g__|99| @__ref__ (99) : char:EOLhyphen (86), char:punc (13)|
+|5.|__gap__|16| @__reason__ (16) : illegible (16)  •  @__resp__ (16) : #OXF (16)  •  @__extent__ (16) : 1 span (2), 1 word (3), 1 letter (7), 2 letters (3), 4 letters (1)|
+|6.|__head__|1||
+|7.|__hi__|46||
+|8.|__p__|47||
+|9.|__pb__|16| @__facs__ (16) : tcp:1310:1 (2), tcp:1310:2 (2), tcp:1310:3 (2), tcp:1310:4 (2), tcp:1310:5 (2), tcp:1310:6 (2), tcp:1310:7 (2), tcp:1310:8 (2)  •  @__n__ (12) : 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1)|
+|10.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|11.|__trailer__|1||
