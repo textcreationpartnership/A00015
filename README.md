@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-GODS WARning to his people of England. BY THE GREAT OVERflowing of the VVaters or Floudes lately hap
+
 #####Body#####
 
 1. Gods Warning to his people of England.
