@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Gods vvarning to his people of England By the great ouer-flowing of the vvaters or floudes lately ha
+GODS WARning to his people of England. BY THE GREAT OVERflowing of the VVaters or Floudes lately hap
 #####Body#####
-Gods vvarning to his people of England By the great ouer-flowing of the vvaters or floudes lately ha
+
+1. Gods Warning to his people of England.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
